@@ -1,0 +1,5 @@
+# ainekset
+
+-lohi
+-peruna
+-sipuli
