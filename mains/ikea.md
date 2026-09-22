@@ -1,4 +1,4 @@
 ## ainekset
 
-** lihapullat
-** muusi
+- ** lihapullat
+- ** muusi
